@@ -6,7 +6,7 @@ MacOS shell script
 ## Requirements
 
 * macOS or Linux
-* Nugs DL installed ("main")
+* Nugs DL installed ("main" https://github.com/Sorrow446/Nugs-Downloader)
 * ./main executable in the same directory
 * Text file with URLs (one per line)
 
