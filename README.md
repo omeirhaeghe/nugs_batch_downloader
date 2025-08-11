@@ -12,6 +12,8 @@ MacOS shell script
 
 ## Example Text File
 
+a text file with the list of all show you want to download, on per line, extrated from the nugs web interface.
+
 https://play.nugs.net/release/34400 
 
 https://play.nugs.net/release/34399 
