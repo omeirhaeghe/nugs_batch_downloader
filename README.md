@@ -3,7 +3,7 @@ batch downloader for nugs
 MacOS shell script
 
 
-Requirements
+#Requirements
 
 macOS or Linux
 ./main executable in the same directory
